@@ -14,6 +14,7 @@ The Simple Reminder Application is a lightweight and easy-to-use tool designed t
 - Delete reminders
 - View a list of all reminders
 - User-friendly interface
+  
 ---
 
 ### ⿢ [Web Scraper](https://github.com/divyansshu/Basic-web-scrapper)
@@ -38,7 +39,7 @@ A finance tracker application built using Python's tkinter module. It allows the
 ---
 
 ### ⿤ [Symbol Hunt Game](https://github.com/divyansshu/Symbol-Hunt)  
-*[Deployment Link](https://divyansshu.github.io/Symbol-Hunt/))* (click)– Hosted using GitHub Pages<br>  
+*[Deployment Link](https://divyansshu.github.io/Symbol-Hunt/))* (click)– Hosted using GitHub Pages 
 Symbol Hunt is a fun and engaging memory-based game where players uncover pairs of matching symbols. Test your memory and concentration skills to complete the game.
 
 **Features**:  
