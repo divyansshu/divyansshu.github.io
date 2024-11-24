@@ -2,7 +2,7 @@
  Sap id: 590016549
 
 ## 👨‍💻 About Me  
-Hello! I'm Divyanshu, a dedicated college student and an enthusiastic learner of **Python*. I am constantly exploring various projects and assignments to refine my programming skills. My goal is to utilize my Python knowledge to tackle real-world challenges effectively.
+I’m pursuing my MCA at UPES, specializing in Artificial Intelligence and Machine Learning. Alongside my core subjects, I'm actively learning Data Structures and Algorithms to enhance my problem-solving skills.
 
 ## 🛠 Projects  
 ### ⿡ [Reminder Application](https://github.com/divyansshu/Simple-reminder-application)  
@@ -47,7 +47,7 @@ Symbol Hunt is a fun and engaging memory-based game where players uncover pairs 
 - Grid-based layout for intuitive gameplay.
 ---
 
-### ⿦ [Classwork & Assignments](https://github.com/divyansshu/python/tree/main/upes%20python%20class%20assignment))  
+### ⿦ [Classwork & Assignments](https://github.com/divyansshu/python/tree/main/upes%20python%20class%20assignment)  
 A repository containing various Python projects, classwork, and assignments completed as part of academic learning at UPES.
 
 ---
