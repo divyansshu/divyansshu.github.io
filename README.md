@@ -15,6 +15,7 @@ The Simple Reminder Application is a lightweight and easy-to-use tool designed t
 - View a list of all reminders
 - User-friendly interface
   
+
 ---
 
 ### ⿢ [Web Scraper](https://github.com/divyansshu/Basic-web-scrapper)
