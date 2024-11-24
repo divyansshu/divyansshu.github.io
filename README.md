@@ -36,6 +36,7 @@ A finance tracker application built using Python's tkinter module. It allows the
 - Dark Mode and Theming
 - Track income and expenses
 - Visualize financial data using charts
+  
 ---
 
 ### ⿤ [Symbol Hunt Game](https://github.com/divyansshu/Symbol-Hunt)  
@@ -46,6 +47,7 @@ Symbol Hunt is a fun and engaging memory-based game where players uncover pairs 
 - Interactive and colorful symbol-based memory game.
 - Tracks pairs to ensure a rewarding user experience.
 - Grid-based layout for intuitive gameplay.
+  
 ---
 
 ### ⿦ [Classwork & Assignments](https://github.com/divyansshu/python/tree/main/upes%20python%20class%20assignment)  
