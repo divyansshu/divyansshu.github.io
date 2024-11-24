@@ -6,7 +6,7 @@ I’m pursuing my MCA at UPES, specializing in Artificial Intelligence and Machi
 
 ## 🛠 Projects  
 ### ⿡ [Reminder Application](https://github.com/divyansshu/Simple-reminder-application)  
-*[Deployment Link](https://divyansshu.github.io/Simple-reminder-application/)* (click)– Hosted using GitHub Pages<br>
+**[Deployment Link](https://divyansshu.github.io/Simple-reminder-application/)** (click)– Hosted using GitHub Pages<br><br>
 The Simple Reminder Application is a lightweight and easy-to-use tool designed to help you manage your tasks and reminders efficiently.
 
 **Features**:  
@@ -19,7 +19,7 @@ The Simple Reminder Application is a lightweight and easy-to-use tool designed t
 ---
 
 ### ⿢ [Web Scraper](https://github.com/divyansshu/Basic-web-scrapper)
-*[Deployment Link](https://divyansshu.github.io/Basic-web-scrapper/)*(click) – Hosted using GitHub Pages <br>
+**[Deployment Link](https://divyansshu.github.io/Basic-web-scrapper/)** (click) – Hosted using GitHub Pages <br><br>
  This project contains two web scrapers: one for scraping book information from a book site and another for scraping quotes from a quote site. The scraped data is saved into CSV files.
  
  **Features**:
@@ -30,7 +30,7 @@ The Simple Reminder Application is a lightweight and easy-to-use tool designed t
  ---
 
 ### ⿣ [Finance Tracker](https://github.com/divyansshu/Finance-Tracker)  
-*[Deployment Link](https://divyansshu.github.io/Finance-Tracker/)* (click)– Hosted using GitHub Pages<br>
+**[Deployment Link](https://divyansshu.github.io/Finance-Tracker/)** (click)– Hosted using GitHub Pages<br><br>
 A finance tracker application built using Python's tkinter module. It allows the user to keep track of their income and expenses, and visualize their balance through a pie chart.
 
 **Features**:  
@@ -41,7 +41,7 @@ A finance tracker application built using Python's tkinter module. It allows the
 ---
 
 ### ⿤ [Symbol Hunt Game](https://github.com/divyansshu/Symbol-Hunt)  
-*[Deployment Link](https://divyansshu.github.io/Symbol-Hunt/))* (click)– Hosted using GitHub Pages 
+**[Deployment Link](https://divyansshu.github.io/Symbol-Hunt/))** (click)– Hosted using GitHub Pages<br><br> 
 Symbol Hunt is a fun and engaging memory-based game where players uncover pairs of matching symbols. Test your memory and concentration skills to complete the game.
 
 **Features**:  
